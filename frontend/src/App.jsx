@@ -6,7 +6,7 @@ import ResourcePlanner from './pages/ResourcePlanner'
 import DiversionSim from './pages/DiversionSim'
 import PostEventLearning from './pages/PostEventLearning'
 
-export const API = 'http://localhost:8000'
+export const API = 'https://eventflowai-5gcf.onrender.com'
 
 const NAV = [
   { id: 'overview', label: 'Overview', icon: '📊', section: 'DASHBOARD' },
